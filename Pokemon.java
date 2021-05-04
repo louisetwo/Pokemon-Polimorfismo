@@ -7,8 +7,8 @@ public abstract class Pokemon {
     public abstract void Habilidade();
 
 
-    //String Som; // Sobreposição -> Mesma assinatura, classes diferentes.
-    //String habilidade;        // Sobrecarga -> Assinaturas diferentes, mesma classe.
+    // Som; // Sobreposição -> Mesma assinatura, classes diferentes.
+    // habilidade;        // Sobrecarga -> Assinaturas diferentes, mesma classe.
 
 
     public Pokemon(String categoria) {
